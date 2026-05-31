@@ -1,0 +1,20 @@
+[
+    {
+        "account_no": "O3Z42IC5SZ",
+        "type": "Deposit",
+        "amount": 90000,
+        "time": "31-05-2026 18:41:50"
+    },
+    {
+        "account_no": "O3Z42IC5SZ",
+        "type": "Deposit",
+        "amount": 2000,
+        "time": "31-05-2026 18:42:56"
+    },
+    {
+        "account_no": "O3Z42IC5SZ",
+        "type": "Withdraw",
+        "amount": 2000,
+        "time": "31-05-2026 18:43:32"
+    }
+]
